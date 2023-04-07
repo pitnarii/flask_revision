@@ -7,3 +7,5 @@ to run the web app with debug on(terminal command):
 flask --app hello run --debug
 
 ```
+#### progress
+07/04/2023 in the progress of editing my own personal website/ revisit how to render it again.
